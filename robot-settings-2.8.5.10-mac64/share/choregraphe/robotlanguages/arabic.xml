@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<LanguageInfo>
+  <Setting name="version" value="1.0"/>
+  <Setting name="languageName" value="Arabic"/>
+  <Setting name="nativeLanguageName" value="اللغة العربية"/>
+  <Setting name="englishLanguageName" value="Arabic"/>
+  <Setting name="ISOCode" value="ar_SA"/>
+  <ASREngine name="Nuance">
+    <Setting name="embeddedCode" value="arw"/>
+  </ASREngine>
+</LanguageInfo>
+

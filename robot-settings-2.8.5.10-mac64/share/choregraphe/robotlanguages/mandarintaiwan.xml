@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<LanguageInfo>
+  <Setting name="version" value="1.0"/>
+  <Setting name="languageName" value="MandarinTaiwan"/>
+  <Setting name="nativeLanguageName" value="國語"/>
+  <Setting name="englishLanguageName" value="Taiwanese Mandarin"/>
+  <Setting name="ISOCode" value="zh_TW"/>
+  <ASREngine name="Nuance">
+    <Setting name="embeddedCode" value="mnt"/>
+  </ASREngine>
+</LanguageInfo>
+

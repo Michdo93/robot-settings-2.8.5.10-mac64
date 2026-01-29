@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<LanguageInfo>
+  <Setting name="version" value="1.0"/>
+  <Setting name="languageName" value="Polish"/>
+  <Setting name="nativeLanguageName" value="Język polski"/>
+  <Setting name="englishLanguageName" value="Polish"/>
+  <Setting name="ISOCode" value="pl_PL"/>
+  <ASREngine name="Nuance">
+    <Setting name="embeddedCode" value="plp"/>
+  </ASREngine>
+</LanguageInfo>
+

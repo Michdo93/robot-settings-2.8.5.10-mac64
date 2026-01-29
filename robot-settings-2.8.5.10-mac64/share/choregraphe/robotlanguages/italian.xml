@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<LanguageInfo>
+  <Setting name="version" value="1.0"/>
+  <Setting name="languageName" value="Italian"/>
+  <Setting name="nativeLanguageName" value="Italiano"/>
+  <Setting name="englishLanguageName" value="Italian"/>
+  <Setting name="ISOCode" value="it_IT"/>
+  <ASREngine name="Nuance">
+    <Setting name="embeddedCode" value="iti"/>
+  </ASREngine>
+</LanguageInfo>
+

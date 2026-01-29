@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<LanguageInfo>
+  <Setting name="version" value="1.0"/>
+  <Setting name="languageName" value="Korean"/>
+  <Setting name="nativeLanguageName" value="한국어"/>
+  <Setting name="englishLanguageName" value="Korean"/>
+  <Setting name="ISOCode" value="ko_KR"/>
+  <ASREngine name="Nuance">
+    <Setting name="embeddedCode" value="kok"/>
+  </ASREngine>
+</LanguageInfo>
+
